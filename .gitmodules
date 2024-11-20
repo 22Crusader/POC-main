@@ -1,3 +1,3 @@
 [submodule "POC-customers"]
-	path = POC-customers
+	path = src/submodules/customers
 	url = https://github.com/22Crusader/POC-customers
