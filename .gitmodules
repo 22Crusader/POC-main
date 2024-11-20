@@ -1,3 +1,6 @@
 [submodule "POC-customers"]
 	path = src/submodules/customers
 	url = https://github.com/22Crusader/POC-customers
+[submodule "POC-auth"]
+	path = src/submodules/auth
+	url = https://github.com/22Crusader/POC-auth
