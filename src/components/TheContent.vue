@@ -11,5 +11,8 @@
 </script>
 
 <style lang="scss" scoped>
-
+    .content {
+        width: 100%;
+        padding: 2rem;
+    }
 </style>
